@@ -1,0 +1,27 @@
+{
+    "workbench.colorTheme": "Material Theme Darker High Contrast",
+    "html.format.indentInnerHtml": true,
+    "html.autoClosingTags": true,
+    // Auto update tags
+    "editor.linkedEditing": true,
+    // Configures if the built-in HTML language support validates embedded scripts.
+    "html.validate.scripts": true,
+    // Configures if the built-in HTML language support validates embedded styles.
+    "html.validate.styles": true,
+    "html.format.extraLiners": "",  
+    // Configures if the built-in HTML language suggests Angular V1 tags and properties.
+    "html.suggest.angular1": true,
+    // Configures if the built-in HTML language suggests Ionic tags, properties and values.
+    "html.suggest.ionic": true,
+    // Configures if the built-in HTML language suggests HTML5 tags, properties and values.
+    "html.suggest.html5": true,
+    "emmet.excludeLanguages": [
+
+        "markdown"
+    ],
+    "emmet.includeLanguages": {
+        "javascript":"javascriptreact",
+        "html":"html"
+    }
+ 
+}
